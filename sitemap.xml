@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://gngbradford.github.io/website/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://gngbradford.github.io/website/</loc>
+</url>
+<url>
+<loc>https://gngbradford.github.io/website/contact-us.html</loc>
+<lastmod>2023-05-16T22:22:28+01:00</lastmod>
+</url>
+<url>
+<loc>https://gngbradford.github.io/website/donations.html</loc>
+<lastmod>2023-05-16T20:55:47+01:00</lastmod>
+</url>
+<url>
+<loc>https://gngbradford.github.io/website/education.html</loc>
+<lastmod>2023-05-16T21:41:30+01:00</lastmod>
+</url>
+<url>
+<loc>https://gngbradford.github.io/website/home.html</loc>
+<lastmod>2023-05-16T20:10:00+01:00</lastmod>
+<image:image>
+<image:loc>https://gngbradford.github.io/website/media/posts/1/gallery/DSC09031-e1400058866766-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Get involved!]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://gngbradford.github.io/website/media/posts/1/gallery/DSC09026-e1400058912284-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Build YOUR future]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://gngbradford.github.io/website/media/posts/1/gallery/bibia-600x400-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Always Room For Seva]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://gngbradford.github.io/website/khalsa-fitness.html</loc>
+<lastmod>2023-05-16T21:47:17+01:00</lastmod>
+</url>
+<url>
+<loc>https://gngbradford.github.io/website/listen-live.html</loc>
+<lastmod>2023-05-16T20:30:52+01:00</lastmod>
+</url>
+</urlset>
