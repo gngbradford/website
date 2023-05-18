@@ -3,10 +3,52 @@
     <title>Guru Nanak Gurdwara - Bradford</title>
     <link href="https://gngbradford.github.io/website/feed.xml" rel="self" />
     <link href="https://gngbradford.github.io/website" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-05-18T22:15:37+01:00</updated>
     <author>
         <name>Gupt</name>
     </author>
     <id>https://gngbradford.github.io/website</id>
 
+    <entry>
+        <title>Sikh Art Exhibition</title>
+        <author>
+            <name>Gupt</name>
+        </author>
+        <link href="https://gngbradford.github.io/website/sikh-art-exhibition.html"/>
+        <id>https://gngbradford.github.io/website/sikh-art-exhibition.html</id>
+            <category term="Video"/>
+            <category term="Blog"/>
+            <category term="Art"/>
+
+        <updated>2023-05-18T22:15:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                    It was a great pleasure to host the opening of the Khalsa Fitness – Sikh Art Exhibition on Saturday 18th&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/bBm49nQtgzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+  </p>
+
+  <p>
+    It was a great pleasure to host the opening of the Khalsa Fitness – Sikh Art Exhibition on Saturday 18th of June 2016. The event was held at the Khalsa Fitness Gym which is located at Guru Nanak Gurdwara, Usher Street, Bradford.
+<br>
+<br>The exhibition included works by many artists, some local, national and international. All exhibits have been carefully chosen to inspire and spiritually enlighten the sangat on Guruji’s message and tell the story of our great Sikh history.
+<br>
+<br>The artworks on display are all very unique and inspiring, we are sure that they will be enjoyed and will provoke a sense of pride and emotion, along with educating us all in our rich history.
+<br>
+<br>On the launch day we will had some of the artists talking about what inspired them to take up art and sharing with us the inspiration and the message of their fantastic work.
+<br>
+<br>Many thanks to:
+<br>
+<br>Raj Singh – Pentacular <a href="https://pentacularartist.wix.com/pentacularartist" target="_blank">pentacularartist.wix.com/pentacularartist</a>
+<br>Amandeep Singh – Inkquisitive <a href="http://www.inkquisitive.com/" target="_blank">http://www.inkquisitive.com/</a>
+<br>Iminder Singh – Iminder Arts<br>Gurpreet Singh – Loha Designs&nbsp;<a href="https://www.facebook.com/profile.php?id=100065272969362" target="_blank">Website</a><br>Music by: Taren Kaur (UK) – “Oh My Father”
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
